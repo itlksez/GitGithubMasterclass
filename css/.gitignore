@@ -1,2 +1,7 @@
+# Exclude credentials.py file
 /credentials.py
+# Exclude the text FOLDER
+text/
+# Exclude just the .txt files in the text folder
+text/*.txt
 
